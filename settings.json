@@ -35,8 +35,8 @@
       "repeat-delay": 60,
 
       "messages": [
-        "I'm a regular player",
-        "Subscibe To Tyrox!",
+        "/server Survival",
+        "/server lobby",
         "I Like to Play Minecraft!"
       ]
     },
